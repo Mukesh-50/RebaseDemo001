@@ -1,5 +1,11 @@
 Agents
+
+LangChain
+LangFlow
+LangFuse
+LangGraph
 AutoGen
 CrewAI
 n8n
 OpenAI AgentBuilder
+
