@@ -1,1 +1,5 @@
 Agents
+AutoGen
+CrewAI
+n8n
+OpenAI AgentBuilder
